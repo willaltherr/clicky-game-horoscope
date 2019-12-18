@@ -1,0 +1,48 @@
+[{
+  "id": "1",
+  "image": "../public/img/aquarius.jpg"
+},
+{
+  "id": "2",
+  "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwje_aHbxrvmAhWPVN8KHaP4BdgQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.astrology-zodiac-signs.com%2Fzodiac-signs%2Faquarius%2F&psig=AOvVaw1YNFQBKPndrql_DsPL8Zy1&ust=1576633237591149"
+},
+{
+  "id": "3",
+  "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjbouuixrvmAhUBZd8KHdNlBV8QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.astrology-zodiac-signs.com%2Fzodiac-signs%2Fpisces%2F&psig=AOvVaw07AqGpmi8TxT4517axLFUo&ust=1576633127679895"
+},
+{
+  "id": "4",
+  "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiOnLzwxrvmAhUkhOAKHRdoDIwQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.astrology-zodiac-signs.com%2Fzodiac-signs%2Faries%2F&psig=AOvVaw1XukWNtW_ZbscS8KjgMqDL&ust=1576633276775088"
+},
+{
+  "id": "5",
+  "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiP8a6Cx7vmAhUlmuAKHXEcAwsQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.astrology-zodiac-signs.com%2Fzodiac-signs%2Ftaurus%2F&psig=AOvVaw2vyzwpGkQuEpNY8fK5t4fw&ust=1576633320624412"
+},
+{
+  "id": "6",
+  "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjj_tGjx7vmAhUsUt8KHePMBcQQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.astrology-zodiac-signs.com%2Fzodiac-signs%2Fgemini%2F&psig=AOvVaw35l_h-c-EXdr4NgMQOm_6C&ust=1576633357816438"
+},
+{
+  "id": "7",
+  "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjlhsuux7vmAhUCT98KHQNzBZQQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.astrology-zodiac-signs.com%2Fzodiac-signs%2Fcancer%2F&psig=AOvVaw0QNx-SoQ8JurE-GCuwPIhC&ust=1576633429481080"
+},
+{
+  "id": "8",
+  "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj496G9x7vmAhWDTN8KHTx-BccQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.astrology-zodiac-signs.com%2Fzodiac-signs%2Fleo%2F&psig=AOvVaw09hFSFQl76rHf_zW-gGDTy&ust=1576633456851352"
+}, {
+  "id": "9",
+  "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiLlZXHx7vmAhVyh-AKHRKYCYkQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.astrology-zodiac-signs.com%2Fzodiac-signs%2Fvirgo%2F&psig=AOvVaw18GLlpoRErdEPLqRE4SSTu&ust=1576633478131632"
+},
+{
+  "id": "10",
+  "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiFq9rYx7vmAhWym-AKHbo7DTkQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.astrology-zodiac-signs.com%2Fzodiac-signs%2Flibra%2F&psig=AOvVaw3LsQQsOF2lk8KldRaEYwcf&ust=1576633507500661"
+},
+{
+  "id": "11",
+  "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiy_P3lx7vmAhWJmeAKHV0pB9AQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.astrology-zodiac-signs.com%2Fzodiac-signs%2Fscorpio%2F&psig=AOvVaw286DIWvmQ45xEReSXhSY7O&ust=1576633540986130"
+},
+{
+  "id": "12",
+  "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiD-Kf5x7vmAhXIMd8KHd6DD-gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.astrology-zodiac-signs.com%2Fzodiac-signs%2Fsagittarius%2F&psig=AOvVaw1aCRhlnXQG-r6BqpCRxXsl&ust=1576633564787408"
+}
+]
